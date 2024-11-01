@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Guest Post Submit\n"
+"POT-Creation-Date: 2014-10-15 17:34+1000\n"
+"PO-Revision-Date: 2014-10-15 17:34+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tt-guest-post-submit.php:47
+msgid "TT Guest Post Submit Options"
+msgstr "TT Anonymní Příspěvek Odeslat"
+
+#: ../tt-guest-post-submit.php:61
+msgid "General Settings"
+msgstr "Obecná nastavení "
+
+#: ../tt-guest-post-submit.php:62
+msgid "Field Selection"
+msgstr "Field Selection "
+
+#: ../tt-guest-post-submit.php:64
+msgid "Send Notification via Email"
+msgstr "Odeslat oznámení e-mailem "
+
+#: ../tt-guest-post-submit.php:65
+msgid "Email for Notification"
+msgstr "E-mail pro oznámení "
+
+#: ../tt-guest-post-submit.php:66
+msgid "Post Submit Confirmation Message"
+msgstr "Odeslat Odeslat potvrzovací zpráva "
+
+#: ../tt-guest-post-submit.php:67
+msgid "Post Submit Failure Message"
+msgstr "Odeslat Odeslat chybové hlášení "
+
+#: ../tt-guest-post-submit.php:68
+msgid "Redirect To"
+msgstr "přesměrování "
+
+#: ../tt-guest-post-submit.php:69
+msgid "Publish Status"
+msgstr "Stav publikování "
+
+#: ../tt-guest-post-submit.php:70
+msgid "Guest Account"
+msgstr "Guest účet "
+
+#: ../tt-guest-post-submit.php:71
+msgid "Maximum Length of the post"
+msgstr "Maximální délka sloupku "
+
+#: ../tt-guest-post-submit.php:72
+msgid "Enable Filter"
+msgstr "Povolit filtr"
+
+#: ../tt-guest-post-submit.php:73
+msgid "Add Filtered Words"
+msgstr "Přidat filtrované slova"
+
+#: ../tt-guest-post-submit.php:75
+msgid "Add Title Field"
+msgstr "Přidat pole název "
+
+#: ../tt-guest-post-submit.php:76
+msgid "Add Post Content Field"
+msgstr "Přidat Post obsahu pole "
+
+#: ../tt-guest-post-submit.php:77
+msgid "Add Category Field"
+msgstr "Přidat kategorie pole "
+
+#: ../tt-guest-post-submit.php:78
+msgid "Add Tags Field"
+msgstr "Přidat Štítky pole "
+
+#: ../tt-guest-post-submit.php:79
+msgid "Add Author's Name Field"
+msgstr "Přidat jméno autora pole "
+
+#: ../tt-guest-post-submit.php:80
+msgid "Add Authors's Email Field"
+msgstr "Přidat Autoři Email pole "
+
+#: ../tt-guest-post-submit.php:81
+msgid "Add Website Field"
+msgstr "Přidat Website pole "
+
+#: ../tt-guest-post-submit.php:82
+msgid "Add Captcha Field"
+msgstr "Přidat Captcha pole "
+
+#: ../tt-guest-post-submit.php:83
+msgid "Add Upload Field"
+msgstr "Přidat Nahrát pole "
+
+#: ../tt-guest-post-submit.php:88
+msgid "General configuration section"
+msgstr "Obecné nastavení sekce "
+
+#: ../tt-guest-post-submit.php:92
+msgid "Select fields which you want to be appear on post submit form"
+msgstr ""
+"Vyberte pole, které chcete, aby se objeví na příspěvek odeslat formulář "
+
+#: ../tt-guest-post-submit.php:122
+msgid "Required"
+msgstr "Požadované "
+
+#: ../tt-guest-post-submit.php:193
+msgid "Please Enter a Post Title"
+msgstr "Prosím, zadejte název příspěvku "
+
+#: ../tt-guest-post-submit.php:195
+msgid "Post Title Here"
+msgstr "Název příspěvku zde "
+
+#: ../tt-guest-post-submit.php:198
+msgid "Please Enter Contents"
+msgstr "Zadejte prosím obsah "
+
+#: ../tt-guest-post-submit.php:200
+msgid "Write Your Post Contents"
+msgstr "Napište Rozmístit své Obsah "
+
+#: ../tt-guest-post-submit.php:210
+msgid "Select a Category"
+msgstr "Vyberte si kategorii "
+
+#: ../tt-guest-post-submit.php:219
+msgid "Comma Separated Tags"
+msgstr "Oddělené čárkami Tagy "
+
+#: ../tt-guest-post-submit.php:222
+msgid "Please Enter Author Name"
+msgstr "Zadejte prosím Autor Název "
+
+#: ../tt-guest-post-submit.php:224
+msgid "Your Name Here"
+msgstr "Vaše jméno zde "
+
+#: ../tt-guest-post-submit.php:227
+msgid "Please Enter a Valid Email Address"
+msgstr "Zadejte prosím platnou emailovou adresu "
+
+#: ../tt-guest-post-submit.php:229
+msgid "Your Email Address Here"
+msgstr "Vaše e-mailovou adresu "
+
+#: ../tt-guest-post-submit.php:234
+msgid "Your Website Address Here"
+msgstr "Adresu webové stránky zde "
+
+#: ../tt-guest-post-submit.php:237
+msgid "Upload Featured Image and Additional Images"
+msgstr "Přidat Doporučené obrázek a Další obrázky "
+
+#: ../tt-guest-post-submit.php:246
+msgid "Captcha Code Here"
+msgstr "Captcha kód zde "
+
+#: ../tt-guest-post-submit.php:271
+msgid "Reset"
+msgstr "Obnovit "
+
+#: ../tt-guest-post-submit.php:272
+msgid "Submit Post"
+msgstr "Odeslat příspěvek "
+
+#: ../ttgps-functions.php:13
+msgid ""
+"Captcha code is wrong. Go back and try to get it right or reload to get a "
+"new captcha code."
+msgstr ""
+"CAPTCHA kód je v pořádku. Vraťte se zpět a zkuste si to hned, nebo znovu "
+"získat nové captcha kód. "
+
+#: ../ttgps-functions.php:17
+msgid "Captcha timed out. Please go back, reload the page and submit again."
+msgstr ""
+"Captcha vypršel. Vraťte se prosím zpět, znovu načíst stránku a předložit "
+"znovu. "
+
+#: ../ttgps-functions.php:25
+msgid "No captcha cookie given. Make sure cookies are enabled."
+msgstr ""
+"Vzhledem k tomu žádný captcha cookie. Ujistěte se, že jsou povoleny soubory "
+"cookies. "
+
+#: ../ttgps-functions.php:41
+msgid ""
+"Following Filtered Messeged are found in your Post. Please go back and Edit "
+"your Post before submit"
+msgstr ""
+"Po filtrovány Messeged lze nalézt v příspěvku. Prosím, vraťte se zpět a "
+"upravit svůj příspěvek před předložit"
+
+#: ../ttgps-functions.php:43
+msgid "Filtered Words List: "
+msgstr "Filtrováno Slova Výpis:"
+
+#: ../ttgps-functions.php:122
+msgid "submission_success"
+msgstr "submission_success "
+
+#: ../ttgps-functions.php:159
+msgid "A user submitted a new post to your Wordpress site database."
+msgstr ""
+"Uživatel předložili nový příspěvek na vaší Wordpress databázi serveru. "
+
+#: ../ttgps-functions.php:160
+msgid "Post Title: "
+msgstr "Název příspěvku: "
+
+#: ../ttgps-functions.php:167
+msgid "Moderate new post"
+msgstr "Střední nový příspěvek "
+
+#: ../ttgps-functions.php:168
+msgid " - New Post Added: "
+msgstr "  - Nový příspěvek Přidaný:"

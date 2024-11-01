@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Guest Post Submit\n"
+"POT-Creation-Date: 2014-10-15 17:35+1000\n"
+"PO-Revision-Date: 2014-10-15 17:37+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Language: zh_Hans\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tt-guest-post-submit.php:47
+msgid "TT Guest Post Submit Options"
+msgstr "tT游客发表提交选项"
+
+#: ../tt-guest-post-submit.php:61
+msgid "General Settings"
+msgstr "常规设置"
+
+#: ../tt-guest-post-submit.php:62
+msgid "Field Selection"
+msgstr "字段选择"
+
+#: ../tt-guest-post-submit.php:64
+msgid "Send Notification via Email"
+msgstr "通过电子邮件发送通知"
+
+#: ../tt-guest-post-submit.php:65
+msgid "Email for Notification"
+msgstr "电子邮件的通知"
+
+#: ../tt-guest-post-submit.php:66
+msgid "Post Submit Confirmation Message"
+msgstr "帖子发布确认消息"
+
+#: ../tt-guest-post-submit.php:67
+msgid "Post Submit Failure Message"
+msgstr "帖子发布故障消息"
+
+#: ../tt-guest-post-submit.php:68
+msgid "Redirect To"
+msgstr "重定向到"
+
+#: ../tt-guest-post-submit.php:69
+msgid "Publish Status"
+msgstr "发布状态"
+
+#: ../tt-guest-post-submit.php:70
+msgid "Guest Account"
+msgstr "来宾帐户"
+
+#: ../tt-guest-post-submit.php:71
+msgid "Maximum Length of the post"
+msgstr "该职位的最大长度"
+
+#: ../tt-guest-post-submit.php:72
+msgid "Enable Filter"
+msgstr "启用过滤器"
+
+#: ../tt-guest-post-submit.php:73
+msgid "Add Filtered Words"
+msgstr "添加过滤词"
+
+#: ../tt-guest-post-submit.php:75
+msgid "Add Title Field"
+msgstr "添加标题字段"
+
+#: ../tt-guest-post-submit.php:76
+msgid "Add Post Content Field"
+msgstr "添加内容后场"
+
+#: ../tt-guest-post-submit.php:77
+msgid "Add Category Field"
+msgstr "添加类别领域"
+
+#: ../tt-guest-post-submit.php:78
+msgid "Add Tags Field"
+msgstr "添加标签字段"
+
+#: ../tt-guest-post-submit.php:79
+msgid "Add Author's Name Field"
+msgstr "添加作者名称字段"
+
+#: ../tt-guest-post-submit.php:80
+msgid "Add Authors's Email Field"
+msgstr "添加作者的email字段"
+
+#: ../tt-guest-post-submit.php:81
+msgid "Add Website Field"
+msgstr "新增网站现场"
+
+#: ../tt-guest-post-submit.php:82
+msgid "Add Captcha Field"
+msgstr "添加验证码现场"
+
+#: ../tt-guest-post-submit.php:83
+msgid "Add Upload Field"
+msgstr "添加上传场"
+
+#: ../tt-guest-post-submit.php:88
+msgid "General configuration section"
+msgstr "一般配置部分"
+
+#: ../tt-guest-post-submit.php:92
+msgid "Select fields which you want to be appear on post submit form"
+msgstr "你想成为出现在后提交表单选择字段"
+
+#: ../tt-guest-post-submit.php:122
+msgid "Required"
+msgstr "需要"
+
+#: ../tt-guest-post-submit.php:193
+msgid "Please Enter a Post Title"
+msgstr "请输入帖子标题"
+
+#: ../tt-guest-post-submit.php:195
+msgid "Post Title Here"
+msgstr "帖子题目在这里"
+
+#: ../tt-guest-post-submit.php:198
+msgid "Please Enter Contents"
+msgstr "请输入内容"
+
+#: ../tt-guest-post-submit.php:200
+msgid "Write Your Post Contents"
+msgstr "发表您发表的内容"
+
+#: ../tt-guest-post-submit.php:210
+msgid "Select a Category"
+msgstr "选择一个类别"
+
+#: ../tt-guest-post-submit.php:219
+msgid "Comma Separated Tags"
+msgstr "逗号分隔的标签"
+
+#: ../tt-guest-post-submit.php:222
+msgid "Please Enter Author Name"
+msgstr "请输入作者名称"
+
+#: ../tt-guest-post-submit.php:224
+msgid "Your Name Here"
+msgstr "你的名字在这里"
+
+#: ../tt-guest-post-submit.php:227
+msgid "Please Enter a Valid Email Address"
+msgstr "请输入有效的电子邮件地址"
+
+#: ../tt-guest-post-submit.php:229
+msgid "Your Email Address Here"
+msgstr "您的电子邮件地址在这里"
+
+#: ../tt-guest-post-submit.php:234
+msgid "Your Website Address Here"
+msgstr "你的网站地址在这里"
+
+#: ../tt-guest-post-submit.php:237
+msgid "Upload Featured Image and Additional Images"
+msgstr "上传特色图片和其它图片"
+
+#: ../tt-guest-post-submit.php:246
+msgid "Captcha Code Here"
+msgstr "图形验证码在这里 "
+
+#: ../tt-guest-post-submit.php:271
+msgid "Reset"
+msgstr "重置"
+
+#: ../tt-guest-post-submit.php:272
+msgid "Submit Post"
+msgstr "提交帖子"
+
+#: ../ttgps-functions.php:13
+msgid ""
+"Captcha code is wrong. Go back and try to get it right or reload to get a "
+"new captcha code."
+msgstr "图形验证码是错误的。回去尝试得到它的权利或重装得到一个新的图形验证码"
+
+#: ../ttgps-functions.php:17
+msgid "Captcha timed out. Please go back, reload the page and submit again."
+msgstr "验证码超时。请回去，重新加载页面并再次提交。"
+
+#: ../ttgps-functions.php:25
+msgid "No captcha cookie given. Make sure cookies are enabled."
+msgstr "没有验证码的cookie给出。确保已启用cookie。"
+
+#: ../ttgps-functions.php:41
+msgid ""
+"Following Filtered Messeged are found in your Post. Please go back and Edit "
+"your Post before submit"
+msgstr "下面的过滤Messeged被发现在你的帖子。请回去之前，编辑您的帖子提交"
+
+#: ../ttgps-functions.php:43
+msgid "Filtered Words List: "
+msgstr "过滤词表:"
+
+#: ../ttgps-functions.php:122
+msgid "submission_success"
+msgstr "submission_success"
+
+#: ../ttgps-functions.php:159
+msgid "A user submitted a new post to your Wordpress site database."
+msgstr "用户提交了一个新的职位，你的WordPress网站的数据库。"
+
+#: ../ttgps-functions.php:160
+msgid "Post Title: "
+msgstr "帖子题目："
+
+#: ../ttgps-functions.php:167
+msgid "Moderate new post"
+msgstr "中等新帖"
+
+#: ../ttgps-functions.php:168
+msgid " - New Post Added: "
+msgstr "  - 新邮补充:"

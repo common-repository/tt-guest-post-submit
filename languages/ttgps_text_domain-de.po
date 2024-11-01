@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Guest Post Submit\n"
+"POT-Creation-Date: 2014-10-15 17:23+1000\n"
+"PO-Revision-Date: 2014-10-15 17:30+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tt-guest-post-submit.php:47
+msgid "TT Guest Post Submit Options"
+msgstr "TT Gast Beitrag abschicken"
+
+#: ../tt-guest-post-submit.php:61
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: ../tt-guest-post-submit.php:62
+msgid "Field Selection"
+msgstr "Feldauswahl"
+
+#: ../tt-guest-post-submit.php:64
+msgid "Send Notification via Email"
+msgstr "Benachrichtigung per Mail"
+
+#: ../tt-guest-post-submit.php:65
+msgid "Email for Notification"
+msgstr "E-Mail-Benachrichtigung für"
+
+#: ../tt-guest-post-submit.php:66
+msgid "Post Submit Confirmation Message"
+msgstr "Post abschicken Bestätigungsmeldung"
+
+#: ../tt-guest-post-submit.php:67
+msgid "Post Submit Failure Message"
+msgstr "Post abschicken Failure Nachricht"
+
+#: ../tt-guest-post-submit.php:68
+msgid "Redirect To"
+msgstr "Umleitung zu"
+
+#: ../tt-guest-post-submit.php:69
+msgid "Publish Status"
+msgstr "Veröffentlichungsstatus"
+
+#: ../tt-guest-post-submit.php:70
+msgid "Guest Account"
+msgstr "Gast-Konto"
+
+#: ../tt-guest-post-submit.php:71
+msgid "Maximum Length of the post"
+msgstr "Maximale Länge der Post"
+
+#: ../tt-guest-post-submit.php:72
+msgid "Enable Filter"
+msgstr "Filter aktivieren"
+
+#: ../tt-guest-post-submit.php:73
+msgid "Add Filtered Words"
+msgstr "Gefiltert Wörter hinzufügen"
+
+#: ../tt-guest-post-submit.php:75
+msgid "Add Title Field"
+msgstr "Fügen Sie Titel-Feld"
+
+#: ../tt-guest-post-submit.php:76
+msgid "Add Post Content Field"
+msgstr "Veröffentlichen Inhalt Feld"
+
+#: ../tt-guest-post-submit.php:77
+msgid "Add Category Field"
+msgstr "Kategorie hinzufügen Feld"
+
+#: ../tt-guest-post-submit.php:78
+msgid "Add Tags Field"
+msgstr "Tags hinzufügen Feld"
+
+#: ../tt-guest-post-submit.php:79
+msgid "Add Author's Name Field"
+msgstr "Urheber Name Feld"
+
+#: ../tt-guest-post-submit.php:80
+msgid "Add Authors's Email Field"
+msgstr "Fügen Autoren der E-Mail-Feld"
+
+#: ../tt-guest-post-submit.php:81
+msgid "Add Website Field"
+msgstr "Hinzufügen Website Feld"
+
+#: ../tt-guest-post-submit.php:82
+msgid "Add Captcha Field"
+msgstr "Captcha-Feld hinzufügen"
+
+#: ../tt-guest-post-submit.php:83
+msgid "Add Upload Field"
+msgstr "Upload-Feld hinzufügen"
+
+#: ../tt-guest-post-submit.php:88
+msgid "General configuration section"
+msgstr "Allgemeine Konfigurationsabschnitt"
+
+#: ../tt-guest-post-submit.php:92
+msgid "Select fields which you want to be appear on post submit form"
+msgstr ""
+"Felder auswählen, die Sie zu sein scheinen, auf Post einreichen möchtest"
+
+#: ../tt-guest-post-submit.php:122
+msgid "Required"
+msgstr "erforderlich"
+
+#: ../tt-guest-post-submit.php:193
+msgid "Please Enter a Post Title"
+msgstr "Bitte geben Sie einen Beitrag Titel"
+
+#: ../tt-guest-post-submit.php:195
+msgid "Post Title Here"
+msgstr "Post-Titel hier"
+
+#: ../tt-guest-post-submit.php:198
+msgid "Please Enter Contents"
+msgstr "Bitte geben Sie Inhalt"
+
+#: ../tt-guest-post-submit.php:200
+msgid "Write Your Post Contents"
+msgstr "Schreiben Sie Ihre Klein Inhalt"
+
+#: ../tt-guest-post-submit.php:210
+msgid "Select a Category"
+msgstr "Wählen Sie eine Kategorie"
+
+#: ../tt-guest-post-submit.php:219
+msgid "Comma Separated Tags"
+msgstr "Comma Separated Schlagwörter"
+
+#: ../tt-guest-post-submit.php:222
+msgid "Please Enter Author Name"
+msgstr "Bitte geben Sie Benutzername"
+
+#: ../tt-guest-post-submit.php:224
+msgid "Your Name Here"
+msgstr "Ihr Name hier"
+
+#: ../tt-guest-post-submit.php:227
+msgid "Please Enter a Valid Email Address"
+msgstr "Bitte geben Sie eine gültige E-Mail-Adresse"
+
+#: ../tt-guest-post-submit.php:229
+msgid "Your Email Address Here"
+msgstr "Ihre E-Mail-Adresse hier"
+
+#: ../tt-guest-post-submit.php:234
+msgid "Your Website Address Here"
+msgstr "Ihre Website-Adresse hier"
+
+#: ../tt-guest-post-submit.php:237
+msgid "Upload Featured Image and Additional Images"
+msgstr "Ausgewähltes Bild hochladen und weitere Bilder"
+
+#: ../tt-guest-post-submit.php:246
+msgid "Captcha Code Here"
+msgstr "Captcha Code hier"
+
+#: ../tt-guest-post-submit.php:271
+msgid "Reset"
+msgstr "rücksetzen"
+
+#: ../tt-guest-post-submit.php:272
+msgid "Submit Post"
+msgstr "Beitrag einreichen"
+
+#: ../ttgps-functions.php:13
+msgid ""
+"Captcha code is wrong. Go back and try to get it right or reload to get a "
+"new captcha code."
+msgstr ""
+"Sicherheitscode ist falsch. Gehen Sie zurück und versuchen Sie es richtig zu "
+"machen oder neu zu laden, um ein neues Captcha-Code zu bekommen."
+
+#: ../ttgps-functions.php:17
+msgid "Captcha timed out. Please go back, reload the page and submit again."
+msgstr ""
+"Captcha Zeitüberschreitung. Bitte gehen Sie zurück, und laden Sie die Seite "
+"erneut einreichen."
+
+#: ../ttgps-functions.php:25
+msgid "No captcha cookie given. Make sure cookies are enabled."
+msgstr ""
+"Kein Captcha-Cookie erhält. Stellen Sie sicher, Cookies sind aktiviert."
+
+#: ../ttgps-functions.php:41
+msgid ""
+"Following Filtered Messeged are found in your Post. Please go back and Edit "
+"your Post before submit"
+msgstr ""
+"Nach Filtered Messeged in Ihrem Beitrag gefunden. Bitte gehen Sie zurück und "
+"bearbeiten Sie Ihre Klein vor einreichen"
+
+#: ../ttgps-functions.php:43
+msgid "Filtered Words List: "
+msgstr "Gefilterten Wörter-Liste:"
+
+#: ../ttgps-functions.php:122
+msgid "submission_success"
+msgstr "submission_success"
+
+#: ../ttgps-functions.php:159
+msgid "A user submitted a new post to your Wordpress site database."
+msgstr "Ein Benutzer hat ein neues Post an Ihre Wordpress-Standortdatenbank."
+
+#: ../ttgps-functions.php:160
+msgid "Post Title: "
+msgstr "Post-Titel:"
+
+#: ../ttgps-functions.php:167
+msgid "Moderate new post"
+msgstr "Moderate neuen Beitrag"
+
+#: ../ttgps-functions.php:168
+msgid " - New Post Added: "
+msgstr "  - Neue Beitrag Verfasst am:"

@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Guest Post Submit\n"
+"POT-Creation-Date: 2014-10-15 17:30+1000\n"
+"PO-Revision-Date: 2014-10-15 17:33+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tt-guest-post-submit.php:47
+msgid "TT Guest Post Submit Options"
+msgstr "TT Guest Post Submit Options"
+
+#: ../tt-guest-post-submit.php:61
+msgid "General Settings"
+msgstr "সাধারণ সেটিংস"
+
+#: ../tt-guest-post-submit.php:62
+msgid "Field Selection"
+msgstr "ক্ষেত্র নির্বাচন"
+
+#: ../tt-guest-post-submit.php:64
+msgid "Send Notification via Email"
+msgstr "ইমেইলের মাধ্যমে বিজ্ঞপ্তি পাঠান"
+
+#: ../tt-guest-post-submit.php:65
+msgid "Email for Notification"
+msgstr "বিজ্ঞপ্তি জন্য ইমেইল"
+
+#: ../tt-guest-post-submit.php:66
+msgid "Post Submit Confirmation Message"
+msgstr "পোস্ট নিশ্চিতকরণ বার্তা "
+
+#: ../tt-guest-post-submit.php:67
+msgid "Post Submit Failure Message"
+msgstr "পোস্ট ব্যর্থতা বার্তা"
+
+#: ../tt-guest-post-submit.php:68
+msgid "Redirect To"
+msgstr "পুনর্নির্দেশ"
+
+#: ../tt-guest-post-submit.php:69
+msgid "Publish Status"
+msgstr "প্রকাশ স্ট্যাটাস"
+
+#: ../tt-guest-post-submit.php:70
+msgid "Guest Account"
+msgstr "অতিথি অ্যাকাউন্ট"
+
+#: ../tt-guest-post-submit.php:71
+msgid "Maximum Length of the post"
+msgstr "পোস্ট সর্বাধিক দৈর্ঘ্য"
+
+#: ../tt-guest-post-submit.php:72
+msgid "Enable Filter"
+msgstr "ফিল্টার সক্রিয়"
+
+#: ../tt-guest-post-submit.php:73
+msgid "Add Filtered Words"
+msgstr "ফিল্টার শব্দ যোগ করুন"
+
+#: ../tt-guest-post-submit.php:75
+msgid "Add Title Field"
+msgstr "শিরোনাম ফিল্ড যোগ করুন"
+
+#: ../tt-guest-post-submit.php:76
+msgid "Add Post Content Field"
+msgstr "পোস্ট বিষয়বস্তু ফিল্ড যোগ করুন"
+
+#: ../tt-guest-post-submit.php:77
+msgid "Add Category Field"
+msgstr "বিভাগ ফিল্ড যোগ করুন"
+
+#: ../tt-guest-post-submit.php:78
+msgid "Add Tags Field"
+msgstr "ট্যাগ্স ফিল্ড যোগ করুন"
+
+#: ../tt-guest-post-submit.php:79
+msgid "Add Author's Name Field"
+msgstr "লেখকের নাম ফিল্ড যোগ করুন"
+
+#: ../tt-guest-post-submit.php:80
+msgid "Add Authors's Email Field"
+msgstr "লেখক এর ইমেইল ফিল্ড যোগ করুন"
+
+#: ../tt-guest-post-submit.php:81
+msgid "Add Website Field"
+msgstr "ওয়েবসাইট ফিল্ড যোগ করুন"
+
+#: ../tt-guest-post-submit.php:82
+msgid "Add Captcha Field"
+msgstr "ক্যাপচা ফিল্ড যোগ করুন"
+
+#: ../tt-guest-post-submit.php:83
+msgid "Add Upload Field"
+msgstr "আপলোড ফিল্ড যোগ করুন"
+
+#: ../tt-guest-post-submit.php:88
+msgid "General configuration section"
+msgstr "সাধারণ কনফিগারেশন অধ্যায়"
+
+#: ../tt-guest-post-submit.php:92
+msgid "Select fields which you want to be appear on post submit form"
+msgstr "পোস্টে প্রদর্শিত হতে চান যা ক্ষেত্র নির্বাচন করুন"
+
+#: ../tt-guest-post-submit.php:122
+msgid "Required"
+msgstr "প্রয়োজনীয়"
+
+#: ../tt-guest-post-submit.php:193
+msgid "Please Enter a Post Title"
+msgstr "একটি পোস্ট শিরোনাম লিখুন"
+
+#: ../tt-guest-post-submit.php:195
+msgid "Post Title Here"
+msgstr "পোস্ট শিরোনাম এখানে"
+
+#: ../tt-guest-post-submit.php:198
+msgid "Please Enter Contents"
+msgstr "সন্নিবেশ করুন"
+
+#: ../tt-guest-post-submit.php:200
+msgid "Write Your Post Contents"
+msgstr "আপনার পোস্ট বিষয়বস্তু লিখুন"
+
+#: ../tt-guest-post-submit.php:210
+msgid "Select a Category"
+msgstr "একটি বিভাগ নির্বাচন করুন"
+
+#: ../tt-guest-post-submit.php:219
+msgid "Comma Separated Tags"
+msgstr "কমা দ্বারা পৃথকীকৃত ট্যাগ"
+
+#: ../tt-guest-post-submit.php:222
+msgid "Please Enter Author Name"
+msgstr "লেখক নাম লিখুন"
+
+#: ../tt-guest-post-submit.php:224
+msgid "Your Name Here"
+msgstr "এখানে আপনার নাম"
+
+#: ../tt-guest-post-submit.php:227
+msgid "Please Enter a Valid Email Address"
+msgstr "একটি বৈধ ইমেইল ঠিকানা লিখুন"
+
+#: ../tt-guest-post-submit.php:229
+msgid "Your Email Address Here"
+msgstr "এখানে আপনার ইমেল ঠিকানা"
+
+#: ../tt-guest-post-submit.php:234
+msgid "Your Website Address Here"
+msgstr "এখানে আপনার ওয়েবসাইট ঠিকানা"
+
+#: ../tt-guest-post-submit.php:237
+msgid "Upload Featured Image and Additional Images"
+msgstr "বৈশিষ্ট্যযুক্ত চিত্র এবং অতিরিক্ত ছবি আপলোড করুন"
+
+#: ../tt-guest-post-submit.php:246
+msgid "Captcha Code Here"
+msgstr "ক্যাপচা কোড এখানে"
+
+#: ../tt-guest-post-submit.php:271
+msgid "Reset"
+msgstr "রিসেট করুন"
+
+#: ../tt-guest-post-submit.php:272
+msgid "Submit Post"
+msgstr "পোস্ট"
+
+#: ../ttgps-functions.php:13
+msgid ""
+"Captcha code is wrong. Go back and try to get it right or reload to get a "
+"new captcha code."
+msgstr ""
+"ক্যাপচা কোড ভুল. ফিরে যান এবং এটা অধিকার পেতে বা একটি নতুন ক্যাপচা কোড পেতে "
+"পুনরায় লোড করার চেষ্টা করুন."
+
+#: ../ttgps-functions.php:17
+msgid "Captcha timed out. Please go back, reload the page and submit again."
+msgstr ""
+"ক্যাপচা সময় শেষ হয়েছে. , ফিরে যান পৃষ্ঠা পুনরায় লোড করুন এবং আবার জমা দিন দয়া করে."
+
+#: ../ttgps-functions.php:25
+msgid "No captcha cookie given. Make sure cookies are enabled."
+msgstr "কোন ক্যাপচা কুকি দেওয়া. নিশ্চিত করুন কুকিজ সক্রিয় হয়."
+
+#: ../ttgps-functions.php:41
+msgid ""
+"Following Filtered Messeged are found in your Post. Please go back and Edit "
+"your Post before submit"
+msgstr ""
+"ফিল্টার Messeged পর আপনার পোস্ট পাওয়া যায়. ফিরে যান দয়া করে এবং জমা করার আগে "
+"আপনার পোস্ট সম্পাদনা করুন"
+
+#: ../ttgps-functions.php:43
+msgid "Filtered Words List: "
+msgstr "ফিল্টার শব্দ তালিকা:"
+
+#: ../ttgps-functions.php:122
+msgid "submission_success"
+msgstr "submission_success"
+
+#: ../ttgps-functions.php:159
+msgid "A user submitted a new post to your Wordpress site database."
+msgstr ""
+"একজন ব্যবহারকারী আপনার ওয়ার্ডপ্রেস সাইট ডাটাবেস থেকে একটি নতুন পোস্ট জমা দেওয়া "
+"হয়েছে."
+
+#: ../ttgps-functions.php:160
+msgid "Post Title: "
+msgstr "পোস্ট শিরোনাম:"
+
+#: ../ttgps-functions.php:167
+msgid "Moderate new post"
+msgstr "সংযমী নতুন পোস্ট"
+
+#: ../ttgps-functions.php:168
+msgid " - New Post Added: "
+msgstr "- নতুন পোস্ট যোগ করা হয়েছে:"
